@@ -131,9 +131,8 @@ See the project report PDF for the detailed analysis and conclusions.
 
 ## 👤 Author
 
-**Mohammadd Sahil**
+**Mohammad Sahil**
 GitHub: [@mohdsahil00736](https://github.com/mohdsahil00736)
 
 ---
 
-⭐ If you found this project useful, consider giving the repository a star!
