@@ -70,9 +70,9 @@ Seasonal-Agriculture-Performance-Analysis/
 
 | Column | Description |
 |--------|-------------|
-| `column_name_1` | Description |
-| `column_name_2` | Description |
-| `column_name_3` | Description |
+| `Crop` | Wheat / Maize / Rice / Pulse |
+| `Season` | Kharif / Rabi / Zaid  |
+
 
 To list your columns quickly, run this in Python:
 
